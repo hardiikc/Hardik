@@ -3,12 +3,14 @@
 <h1 align="center">Hi 👋, I'm Hardik Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+Autonomous+Systems;Reinforcement+Learning;Generative+AI;PYTHON+|+MATLAB+|+SIMULINK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+Autonomous+Systems;Reinforcement+Learning;Generative+AI;PYTHON+|+MATLAB+|+SIMULINK" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Building%20Intelligent%20Systems&width=800&height=100" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Building%20Intelligent%20Systems%20That%20Move%20Safely%20in%20the%20Real%20World&width=900&height=120" />
 </p>
+
+
 
 
 ---
