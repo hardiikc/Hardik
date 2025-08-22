@@ -46,7 +46,7 @@
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/hardikchauhan17/">hardikchauhan17</a>  
 - 📧 Email: <a href="mailto:hardikchauhan0017@gmail.com">hardikchauhan0017@gmail.com</a>  
-- 🧑‍💻 GitHub: <a href="https://github.com/hardiikc">your-handle</a>
+- 🧑‍💻 GitHub: <a href="https://github.com/hardiikc">Hardik Chauhan</a>
 
 ---
 
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true" alt="stats" />
 </p>
 <p align="left">
-  <img src="https://github.com/hardiikc" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle" alt="streak" />
 </p>
 
 <!-- End -->
