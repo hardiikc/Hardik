@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Building%20Intelligent%20Systems%20That%20Move%20Safely%20in%20the%20Real%20World&width=900&height=120" />
+  <b style="font-size:22px; background: linear-gradient(90deg, #00C3FF, #ff00ff); -webkit-background-clip: text; color: transparent;">
+    Building Intelligent Systems That Move Safely in the Real World
+  </b>
 </p>
 
 
