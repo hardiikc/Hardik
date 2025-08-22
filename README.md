@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&multiline=true&center=true&vCenter=true&lines=🌊+Building+Intelligent+Systems+That+Move+Safely+in+the+Real+World+🌊" alt="Wavy Text Animation" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems+That+Move+Safely+in+the+Real+World"
+    alt="Typing tagline"
+  />
 </p>
 
 
