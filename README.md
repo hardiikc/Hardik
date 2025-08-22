@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size:22px; background: linear-gradient(90deg, #00C3FF, #ff00ff); -webkit-background-clip: text; color: transparent;">
-    Building Intelligent Systems That Move Safely in the Real World
-  </b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&multiline=true&center=true&vCenter=true&lines=🌊+Building+Intelligent+Systems+That+Move+Safely+in+the+Real+World+🌊" alt="Wavy Text Animation" />
 </p>
 
 
