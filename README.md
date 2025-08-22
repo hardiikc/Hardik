@@ -1,11 +1,16 @@
-# Hardik
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Hardik Chauhan</h1>
 
 <p align="center">
-  AI Engineer • Autonomous Systems • Reinforcement Learning • Computer Vision
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Autonomous+Systems;Reinforcement+Learning;Computer+Vision;Generative+AI+%26+RAG" alt="Typing SVG" />
 </p>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF5733?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer%20Vision-00C3FF?style=for-the-badge">
+</h3>
 
 <p align="center">
   <b>Building Intelligent Systems That Move Safely in the Real World</b>
