@@ -27,11 +27,8 @@
 
 | Project | Description | Repo |
 |---|---|---|
-| **Trajectory Prediction with GRU/LSTM (Waymo ODD)** | Built sequential models (GRU/LSTM) for vehicle trajectory prediction on the Waymo Open Dataset; achieved **+8% accuracy** with **15% lower training time** via optimized pipelines. | [View](https://github.com/your-handle/waymo-trajectory-gru-lstm) |
-| **Q‑GridNavigator (RL)** | Reinforcement learning framework for strategic navigation with modular environment/state update pipelines and agent-centric workflows. | [View](https://github.com/your-handle/q-gridnavigator-rl) |
-| **Automated Valet Parking – Research** | Explored sensor fusion for ADAS and Generative AI/RAG for scene understanding; produced technical documentation and presentations. | [View](https://github.com/your-handle/avp-research-notes) |
-
-> Tip: If any repo is private or not yet online, keep the row and change the link to “Coming soon”.
+| **Trajectory Prediction with GRU/LSTM (Waymo ODD)** | Built sequential models (GRU/LSTM) for vehicle trajectory prediction on the Waymo Open Dataset; achieved **+8% accuracy** with **15% lower training time** via optimized pipelines. | [View](https://github.com/hardiikc/WAYMO_Challenge) |
+| **Q‑GridNavigator (RL)** | Reinforcement learning framework for strategic navigation with modular environment/state update pipelines and agent-centric workflows. | [View](https://github.com/hardiikc/env_hac8488) |
 
 ---
 
@@ -49,7 +46,7 @@
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/hardikchauhan17/">hardikchauhan17</a>  
 - 📧 Email: <a href="mailto:hardikchauhan0017@gmail.com">hardikchauhan0017@gmail.com</a>  
-- 🧑‍💻 GitHub: <a href="https://github.com/your-handle">your-handle</a>
+- 🧑‍💻 GitHub: <a href="https://github.com/hardiikc">your-handle</a>
 
 ---
 
@@ -59,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true" alt="stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle" alt="streak" />
+  <img src="https://github.com/hardiikc" alt="streak" />
 </p>
 
 <!-- End -->
