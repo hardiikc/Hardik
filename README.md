@@ -1,16 +1,15 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Hardik Chauhan</h1>
+<h1 align="center">Hi 👋 I'm Hardik Chauhan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+Autonomous+Systems;Reinforcement+Learning;Generative+AI;PYTHON+|+MATLAB+|+SIMULINK" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&width=950&lines=Building+Intelligent+Systems+That+Move+Safely+in+the+Real+World"
-    alt="Typing tagline"
-  />
+  <b style="font-size:22px;background:linear-gradient(90deg,#00C3FF,#FF00FF);-webkit-background-clip:text;color:transparent;">
+    Building Intelligent Systems That Move Safely in the Real World
+  </b>
 </p>
 
 
