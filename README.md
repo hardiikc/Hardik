@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size:22px;background:linear-gradient(90deg,#00C3FF,#FF00FF);-webkit-background-clip:text;color:transparent;">
-    Building Intelligent Systems That Move Safely in the Real World
-  </b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+That+Move+Safely+in+the+Real+World" alt="Typing SVG" />
 </p>
 
 
