@@ -53,19 +53,3 @@
 - 🧑‍💻 GitHub: <a href="https://github.com/hardiikc">Hardik Chauhan</a>
 
 ---
-
-## 📈 Profile Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true" alt="stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hardiik&theme=dark&hide_border=true" alt="streak"/>
-</p>
-
-<!-- End -->
-
